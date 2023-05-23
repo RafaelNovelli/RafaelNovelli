@@ -23,6 +23,6 @@
   <a href = "mailto:novellir97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/novellir" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/RafaelNovelli/RafaelNovelli/blob/main/.github/workflows/main.yml)
+ <img align="center" alt="Rafa-yoda"  src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif">  
   
 </div>
