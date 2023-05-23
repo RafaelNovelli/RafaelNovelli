@@ -1,4 +1,4 @@
-## Olá ! eu sou o Rafael Novelli, estudante de de programação e tecnologia!
+## Olá ! eu sou o Rafael Novelli, estudante de programação e tecnologia!
 
 - 🔭 Procurando um emprego / estágio 
 - 🌱 Estudando Ciências da Computação
